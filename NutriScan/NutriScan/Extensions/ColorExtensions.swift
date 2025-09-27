@@ -1,5 +1,5 @@
 //
-//  ColorExtention.swift
+//  ColorExtensions.swift
 //  NutriScan
 //
 //  Created by Elena Diniz on 9/24/25.
